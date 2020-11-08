@@ -7,12 +7,7 @@
     "build": "npx tsc",
     "test": "npx jasmine-ts --config=jasmine.json"
   },
-  "keywords": [
-    "npm",
-    "node",
-    "ts",
-    "typescript"
-  ],
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
