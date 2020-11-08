@@ -1,15 +1,21 @@
-# npm-package-with-ts (WIP)
+# npm-package-with-ts
 
 Template of NPM package with Typescript.
 
-First, install dependencies with
+# Steps
+
+First, install dependencies with:
 
 ```
 $ npm i
 ```
 
-then, execute `src/main.ts` script with
+then, run specs with
 
 ```
-$ npm run start
+$ npm test
 ```
+
+# What you need to additionally do
+
+1. Change `package.json` basic info and add `scripts` to meet your requirements.
