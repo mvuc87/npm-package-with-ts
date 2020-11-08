@@ -1,4 +1,4 @@
-# npm-package-with-ts
+# npm-package-with-ts (WIP)
 
 Template of NPM package with Typescript.
 
