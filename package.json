@@ -2,7 +2,7 @@
   "name": "npm-package-with-ts",
   "version": "1.0.0",
   "description": "Template of NPM package with Typescript",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "build": "npx tsc",
     "test": "npx jasmine-ts --config=jasmine.json"
