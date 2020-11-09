@@ -1,0 +1,7 @@
+# List of files ignored when publishing package:
+# http://npm.github.io/publishing-pkgs-docs/publishing/the-npmignore-file.html
+
+src
+jasmine.json
+package-lock.json
+tsconfig.json
