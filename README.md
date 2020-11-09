@@ -2,7 +2,7 @@
 
 Template of NPM package with Typescript.
 
-# Steps
+# Test
 
 First, install dependencies with:
 
